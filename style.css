@@ -1,0 +1,9 @@
+.aboutContainer{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 40px;
+    justify-content: space-evenly;
+    margin: 40px 0px 40px 0px;
+}
+.thumbnails {text-align: center;}
+.thumbnails .thumbnail {display: inline-block; margin: 0 5px;}
