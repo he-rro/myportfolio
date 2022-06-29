@@ -1,3 +1,7 @@
+header{
+    background-color: #0f4c5c;
+    height: 70px;
+}
 .aboutContainer{
     display: grid;
     grid-template-columns: auto auto auto;
@@ -7,3 +11,13 @@
 }
 .thumbnails {text-align: center;}
 .thumbnails .thumbnail {display: inline-block; margin: 0 5px;}
+
+#projectGrid{
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 0px;
+    
+}
+.card{
+    margin-top: 30px;
+}
