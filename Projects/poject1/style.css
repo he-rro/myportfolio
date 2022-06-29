@@ -1,0 +1,48 @@
+
+
+#container{
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+img{
+    display: block;
+    margin: 30px 0px 30px 0px;
+}
+
+label{
+    margin: 30px 0px 0px 0px
+}
+input{
+    display: block;
+    margin: 0px 0px 15px 0px;
+    width: 500px;
+    height: 35px; 
+    border: 2px solid  #00c49a;
+    border-radius: 10px;
+}
+#resizeButton{
+    padding: 10px;
+    width: 200px;
+    background-color: #ff6b0f;
+    border-radius: 20px;
+    border:0px;
+    color: white;
+}
+h1 {
+    text-align: center;
+    color: #ff8800;  
+}
+
+#copy{
+    display: inline;
+}
+#bbb:checked {
+    color: green;
+}
+#btn:hover{
+    color: #000;
+}
+/* #icon{
+    size: 10px;
+} */
